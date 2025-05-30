@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p155310-e1644758.adobeaemcloud.com//bin/franklin.delivery/feisalTraining/eds-ue-overview/main"
+    url: "https://author-p155310-e1644758.adobeaemcloud.com/bin/franklin.delivery/feisalTraining/eds-ue-overview/main"
     type: "markup"
     suffix: ".html"
