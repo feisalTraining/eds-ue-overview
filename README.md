@@ -3,7 +3,7 @@ Your project's description...
 
 ## Environments
 - Preview: https://main--eds-ue-overview--feisalTraining.aem.page/
-- Live: https://main--eds-ue-oviewview--feisalTraining.aem.live/
+- Live: https://main--eds-ue-overview--feisalTraining.aem.live/
 
 ## Documentation
 
