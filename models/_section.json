@@ -51,7 +51,8 @@
         "columns",
         "fragment",
         "hero",
-        "teaser"
+        "teaser",
+        "quote"
       ]
     }
   ]
