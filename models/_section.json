@@ -50,9 +50,7 @@
         "cards",
         "columns",
         "fragment",
-        "hero",
-        "quote",
-        "teaser"
+        "hero"
       ]
     }
   ]
