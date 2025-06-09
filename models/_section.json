@@ -43,6 +43,7 @@
     {
       "id": "section",
       "components": [
+        "teaser",
         "text",
         "image",
         "button",
