@@ -43,7 +43,6 @@
     {
       "id": "section",
       "components": [
-        "teaser",
         "text",
         "image",
         "button",
@@ -51,7 +50,8 @@
         "hero",
         "cards",
         "columns",
-        "fragment"
+        "fragment",
+        "teaser"
       ]
     }
   ]
