@@ -12,11 +12,11 @@
       "image",
       "button",
       "title",
-      "hero",
       "cards",
       "columns",
       "fragment",
-      "quote"
+      "hero",
+      "teaser"
     ]
   },
   {
