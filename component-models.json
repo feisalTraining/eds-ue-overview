@@ -280,15 +280,15 @@
         "options": [
           {
             "name": "Red",
-            "value": "bg-red"
+            "value": "background-color: bg-red"
           },
           {
             "name": "Green",
-            "value": "bg-green"
+            "value": "background-color: bg-green"
           },
           {
             "name": "Blue",
-            "value": "bg-blue"
+            "value": "background-color:bg-blue"
           }
         ]
       }
